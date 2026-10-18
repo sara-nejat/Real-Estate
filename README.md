@@ -8,11 +8,15 @@
 
 </div>
 
+## 👀 Website Preview
+
+![Real Estate website preview](assets/website-preview.jpg)
+
 ---
 
 ## 📌 About the Project
 
-**Real Estate** is a front-end website project inspired by modern property and architecture websites. It presents property-focused content through a minimal layout, soft colors, architectural imagery, and clear navigation.
+**Real Estate** is a front-end landing page inspired by modern property and architecture websites. It uses a minimal layout, a soft nature-inspired color palette, and clear navigation to present property-focused content.
 
 The project was created to practice building a website interface with **HTML and CSS**.
 
@@ -21,10 +25,8 @@ The project was created to practice building a website interface with **HTML and
 - Clean, minimalist visual design
 - Navigation links for Home, Properties, About, and Contact
 - Hero section featuring an architectural quote
-- Featured property card with property details
-- Property-focused image sections and calls to action
-- Footer navigation
-- Soft, nature-inspired color palette and typography
+- Property-focused content and calls to action
+- Soft, nature-inspired colors and typography
 
 ## 🛠️ Built With
 
@@ -42,9 +44,10 @@ The website is published with GitHub Pages:
 
 ```text
 Real-Estate/
-├── assets/       # Images and other project assets
-├── index.html    # Main webpage
-└── README.md     # Project documentation
+├── assets/
+│   └── website-preview.jpg  # README preview image
+├── index.html               # Main webpage
+└── README.md                # Project documentation
 ```
 
 ## 💻 Run Locally
@@ -79,4 +82,3 @@ The goal of this project was to practice front-end fundamentals and recreate the
 **Thanks for visiting! ⭐**
 
 </div>
-
